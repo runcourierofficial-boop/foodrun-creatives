@@ -1,0 +1,5 @@
+{"id":"crunchladder","badge":"OPEN 24 HOURS • GUJRANWALA","hook":"Kitni bhook hai?\nPick your crunch.",
+ "items":[
+  {"title":"Crispy Zinger Burger","sub":"Crunchy fillet • lettuce\n• creamy mayo","price":"549","photo":"zinger.jpg"},
+  {"title":"Solo Crunch","sub":"Zinger burger + fries\n+ 350ml drink","price":"899","photo":"solo.jpg"},
+  {"title":"Triple Crunch","sub":"3 Zinger burgers + 2 fries\n+ 1.5L drink","price":"2,399","photo":"triple.jpg"}]}

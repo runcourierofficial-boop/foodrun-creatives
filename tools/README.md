@@ -14,3 +14,6 @@ Get a new dish photo from the website (900x900): open https://foodrun.store/uplo
 Rules: every title/price/sub must match foodrun.store exactly. "Cash on delivery" and "Open 24 hours" are owner-approved claims.
 Publish: copy out/*.jpg|mp4 into ../img or ../video, git add/commit/push → Meta fetches
 https://raw.githubusercontent.com/runcourierofficial-boop/foodrun-creatives/main/img/<file>
+
+Hook headline: add optional "hook" ("line1\nline2", last line in lime) to a deals.json entry.
+Price-ladder card (3 items): python3 -I ladder_gen.py ladder_crunch.json photos out

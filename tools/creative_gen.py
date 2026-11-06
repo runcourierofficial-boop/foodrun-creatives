@@ -99,6 +99,18 @@ def render(deal, photo_dir, W, H):
         bf = font(int(40*s), "Bold")
         d.text((W - m - d.textlength("Food Run", font=bf), m + 8), "Food Run", font=bf, fill=WHITE)
 
+    # optional hook headline (1-2 lines) under the badge
+    hook = deal.get("hook")
+    if hook:
+        hf = font(int(96*s), "Black") if os.path.exists(FONT_DIR+"InterDisplay-Black.otf") else font(int(96*s), "Bold")
+        hy = y + int(28*s)
+        for i, line in enumerate(hook.split("\n")):
+            col = BRAND_GREEN if i == len(hook.split("\n")) - 1 else WHITE
+            for dx, dy in ((3,3),(2,2)):
+                d.text((m+dx, hy+dy), line, font=hf, fill=(0,0,0))
+            d.text((m, hy), line, font=hf, fill=col)
+            hy += int(hf.size * 1.08)
+
     # bottom block
     price_f = font(int(190*s), "Black") if os.path.exists(FONT_DIR+"InterDisplay-Black.otf") else font(int(190*s), "Bold")
     title_f = font(int(78*s), "Bold")
