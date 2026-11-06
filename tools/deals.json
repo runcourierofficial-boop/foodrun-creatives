@@ -63,23 +63,21 @@
   "badge": "OPEN 24 HOURS \u2022 CASH ON DELIVERY"
  },
  {
-  "id": "night_zinger549",
-  "title": "Crispy Zinger Burger",
-  "sub": "Crunchy fillet \u2022 fresh lettuce \u2022 creamy mayo",
-  "price": "549",
-  "photo": "zinger.jpg",
-  "daypart": "latenight",
-  "badge": "OPEN 24 HOURS \u2022 GUJRANWALA",
-  "hook": "2 AM craving?\nWe're open."
+  "id": "grilledchicken699",
+  "title": "Grilled Chicken Burger",
+  "sub": "Flame-grilled chicken fillet \u2022 fresh toppings \u2022 toasted bun",
+  "price": "699",
+  "photo": "grilledchicken.jpg",
+  "daypart": "all",
+  "badge": "#1 BEST SELLER \u2022 OPEN 24 HOURS"
  },
  {
-  "id": "nashta_breakfast749",
-  "title": "Breakfast Deal",
-  "sub": "Chai + chicken cheese paratha + Pakistani omelette",
-  "price": "749",
-  "photo": "breakfast.jpg",
-  "daypart": "breakfast",
-  "badge": "CASH ON DELIVERY",
-  "hook": "Nashta ready.\nNo kitchen needed."
+  "id": "pizzawings2999",
+  "title": "Pizza & Wings Squad",
+  "sub": "13\" pizza + 6 wings + loaded fries + 1.5L drink",
+  "price": "2,999",
+  "photo": "pizzawings.jpg",
+  "daypart": "evening",
+  "badge": "FAMILY DEAL \u2022 CASH ON DELIVERY"
  }
 ]
