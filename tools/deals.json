@@ -1,0 +1,65 @@
+[
+ {
+  "id": "zinger549",
+  "title": "Crispy Zinger Burger",
+  "sub": "Crunchy fillet \u2022 fresh lettuce \u2022 creamy mayo",
+  "price": "549",
+  "photo": "zinger.jpg",
+  "daypart": "lunch",
+  "badge": "OPEN 24 HOURS \u2022 GUJRANWALA"
+ },
+ {
+  "id": "pizzarun699",
+  "title": "Personal Pizza Run",
+  "sub": "8\" pizza + 350ml drink",
+  "price": "699",
+  "photo": "pizza.jpg",
+  "daypart": "evening",
+  "badge": "DEAL \u2022 OPEN 24 HOURS"
+ },
+ {
+  "id": "solocrunch899",
+  "title": "Solo Crunch",
+  "sub": "Zinger burger + fries + 350ml drink",
+  "price": "899",
+  "photo": "solo.jpg",
+  "daypart": "lunch",
+  "badge": "DEAL \u2022 OPEN 24 HOURS"
+ },
+ {
+  "id": "triplecrunch2399",
+  "title": "Triple Crunch",
+  "sub": "3 Zinger burgers + 2 fries + 1.5L drink",
+  "price": "2,399",
+  "photo": "triple.jpg",
+  "daypart": "evening",
+  "badge": "FAMILY DEAL \u2022 OPEN 24 HOURS"
+ },
+ {
+  "id": "breakfast749",
+  "title": "Breakfast Deal",
+  "sub": "Chai + chicken cheese paratha + Pakistani omelette",
+  "price": "749",
+  "photo": "breakfast.jpg",
+  "daypart": "breakfast",
+  "badge": "NASHTA \u2022 6AM \u2013 11AM"
+ },
+ {
+  "id": "loadedfries699",
+  "title": "Loaded Fries",
+  "sub": "Chicken \u2022 cheese sauce \u2022 signature toppings",
+  "price": "699",
+  "photo": "fries.jpg",
+  "daypart": "latenight",
+  "badge": "LATE NIGHT \u2022 OPEN 24 HOURS"
+ },
+ {
+  "id": "beef1149",
+  "title": "Grilled Beef Burger",
+  "sub": "Flame-grilled beef patty \u2022 fresh toppings \u2022 toasted bun",
+  "price": "1,149",
+  "photo": "beef.jpg",
+  "daypart": "evening",
+  "badge": "OPEN 24 HOURS \u2022 CASH ON DELIVERY"
+ }
+]
